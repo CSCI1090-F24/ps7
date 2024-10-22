@@ -18,7 +18,7 @@ Don't forget that there are links to very very helpful Colab notebook in the sam
 
 ## Deliverables
 
-This problem set is due **Thursday, March 21 at 11:59pm EST**. Remember this is how you submit:
+This problem set is due **Tuesday October 29 11:59pm EDT**. Remember this is how you submit:
 
 1. Share your Colab notebook with me and the TAs, as decribed in the notebook.
 2. Download the notebook to your computer, move it to this repository, and add, commit, and push it, just as you did for Python files in your previous problem sets.
